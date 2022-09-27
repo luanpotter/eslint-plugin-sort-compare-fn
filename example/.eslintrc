@@ -1,0 +1,9 @@
+{
+    "parserOptions": {
+      "ecmaVersion": 2018
+    },
+    "rules": {
+      "sort-compare-fn/validate-compare-fn": "error"
+    },
+    "plugins": ["sort-compare-fn"]
+  }

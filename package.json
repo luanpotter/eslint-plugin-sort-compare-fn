@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-sort-compare-fn",
+  "version": "0.1.0",
+  "description": "Validate the compare function provided as argument to array.sort",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanpotter/eslint-plugin-sort-compare-fn.git"
+  },
+  "keywords": [
+    "eslint",
+    "plugin",
+    "custom",
+    "rule",
+    "sort",
+    "compare",
+    "function"
+  ],
+  "author": "Luan Nico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luanpotter/eslint-plugin-sort-compare-fn/issues"
+  },
+  "homepage": "https://github.com/luanpotter/eslint-plugin-sort-compare-fn#readme"
+}

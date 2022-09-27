@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "description": "Just an example project to test custom eslint rules",
+  "main": "index.js",
+  "author": "Luan Nico",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-sort-compare-fn": "file:.."
+  }
+}
